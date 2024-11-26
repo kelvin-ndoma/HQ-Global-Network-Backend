@@ -1,0 +1,1 @@
+rails new hq-global-network-backend --database=postgresql
